@@ -1,0 +1,30 @@
+_repo: L-Abbe-Constantin-Volume-3_3956
+creator:
+  author:
+    agent_name: Halévy, Ludovic
+    aliases:
+    - Halévy, L. (Ludovic)
+    - Halevy, Ludovic
+    - Servieres, Jules
+    birthdate: 1834
+    deathdate: 1908
+    gutenberg_agent_id: '1344'
+    url: http://www.gutenberg.org/2009/agents/1344
+    wikipedia: http://en.wikipedia.org/wiki/Ludovic_Halévy
+description: ''
+gutenberg_issued: '2003-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3956'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clergy -- France -- Fiction'
+- !lcsh 'Catholic Church -- Clergy -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
+- !lcsh 'Love stories'
+title: L'Abbe Constantin — Volume 3
+url: http://www.gutenberg.org/ebooks/3956
