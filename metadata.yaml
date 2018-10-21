@@ -1,5 +1,5 @@
 _repo: L-Abbe-Constantin-Volume-3_3956
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -32,5 +32,6 @@ subjects:
 - !lcc 'PQ'
 - !lcsh 'France -- Social life and customs -- 19th century -- Fiction'
 - !lcsh 'Love stories'
+- GITenberg
 title: L'Abbe Constantin — Volume 3
 url: http://www.gutenberg.org/ebooks/3956
